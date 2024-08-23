@@ -1,6 +1,8 @@
 # Little Lake
 
-The little lake is a simple data lake application that allows users to upload and download files to and from an S3 bucket. The application is built using Node.js and Express.js.
+The little lake is a simple data lake application that allows users to upload files to an S3 bucket. The application is built using Node.js and Express.js.
+
+A way to have a cheap storage for log data on your local machine!!!
 
 ## Setup Instructions
 
